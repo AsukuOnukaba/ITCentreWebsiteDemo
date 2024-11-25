@@ -253,18 +253,18 @@
 }
 .slider-wrapper .image-list{
     display: grid;
-    gap: 150px;
+    gap: 110px;
     font-size: 0;
     margin-bottom: 30px;
     overflow-x: auto;
     scrollbar-width: none;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(10, 0.5fr);
 }
 .slider-wrapper .image-list::-webkit-scrollbar{
     display: none;
 }
 .slider-wrapper .image-list .image-item{
-    height: 70px;
+    /* height: 70px; */
     object-fit: cover;
 }
 /* certifications */
@@ -1171,7 +1171,6 @@ section.courseContainer{
         align-items: center;
     }
     .text1 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
@@ -1659,6 +1658,8 @@ section.courseContainer{
         margin: 0 30px;
     }
     /* certifications */
+
+
 
     /* consultants */
     .inside {
@@ -2306,55 +2307,55 @@ section.courseContainer{
         align-items: center;
     }
     .text1 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
         padding: 10px 10px;
+        font-size: small;
         width: 280px;
-        height: 350px;
+        height: 400px;
     }
     .text2 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
         padding: 10px 10px;
+        font-size: small;
         width: 280px;
-        height: 350px;
+        height: 400px;
     }
     .text3 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
+        font-size: small;
         margin-bottom: 40px;
         width: 280px;
         height: 350px;
     }
     .text4 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
+        font-size: small;
         margin-bottom: 40px;
         width: 280px;
         height: 350px;
     }
     .text5 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
+        font-size: small;
         margin-bottom: 40px;
         width: 280px;
         height: 350px;
     }
     .text6 {
-	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
+        font-size: small;
         margin-bottom: 40px;
         width: 280px;
         height: 350px;
