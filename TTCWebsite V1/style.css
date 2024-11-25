@@ -1171,6 +1171,7 @@ section.courseContainer{
         align-items: center;
     }
     .text1 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
@@ -2305,52 +2306,58 @@ section.courseContainer{
         align-items: center;
     }
     .text1 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
         padding: 10px 10px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     .text2 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 40px;
         padding: 10px 10px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     .text3 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
         margin-bottom: 40px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     .text4 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
         margin-bottom: 40px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     .text5 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
         margin-bottom: 40px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     .text6 {
+	font-size: small;
         margin-left: 0;
         margin-right: 0;
         padding: 10px 10px;
         margin-bottom: 40px;
         width: 280px;
-        height: 450px;
+        height: 350px;
     }
     /* services */
 
